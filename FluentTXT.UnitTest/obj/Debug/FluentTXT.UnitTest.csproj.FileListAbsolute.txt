@@ -1,0 +1,17 @@
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\obj\Debug\FluentTXT.UnitTest.csprojAssemblyReference.cache
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\obj\Debug\FluentTXT.UnitTest.csproj.CoreCompileInputs.cache
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\TestFiles\PPTRCG.D
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\FluentTXT.UnitTest.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\FluentTXT.UnitTest.pdb
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\FluentTXT.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\FluentTXT.pdb
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\obj\Debug\FluentTXT.UnitTest.csproj.CopyComplete
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\obj\Debug\FluentTXT.UnitTest.dll
+C:\3 - Sviluppo\Fluent\FluentTXT.UnitTest\obj\Debug\FluentTXT.UnitTest.pdb

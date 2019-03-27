@@ -1,0 +1,6 @@
+C:\1-Dev\ZucToBPoint\ZucToBPoint\FluentTXT\bin\Debug\FluentTXT.dll
+C:\1-Dev\ZucToBPoint\ZucToBPoint\FluentTXT\bin\Debug\FluentTXT.pdb
+C:\1-Dev\ZucToBPoint\ZucToBPoint\FluentTXT\obj\Debug\FluentTXT.csprojAssemblyReference.cache
+C:\1-Dev\ZucToBPoint\ZucToBPoint\FluentTXT\obj\Debug\FluentTXT.csproj.CoreCompileInputs.cache
+C:\1-Dev\ZucToBPoint\ZucToBPoint\FluentTXT\obj\Debug\FluentTXT.dll
+C:\1-Dev\ZucToBPoint\ZucToBPoint\FluentTXT\obj\Debug\FluentTXT.pdb
